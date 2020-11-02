@@ -17,6 +17,7 @@
 #ifndef GEPETTO_GUI_PLUGININTERFACE_HH
 #define GEPETTO_GUI_PLUGININTERFACE_HH
 
+#include <QOpenGLContext>
 #include <QtGui>
 #include <QWidget>
 #include <iostream>
